@@ -9,5 +9,6 @@
 .app{
   min-height: 100vh;
   display: grid;
-  background: #e2d4ff;
+  background: url('https://c1.wallpaperflare.com/preview/163/150/429/roatan-island-sunset.jpg') no-repeat center center;
+  background-size: cover;
 }
